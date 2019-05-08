@@ -1,4 +1,4 @@
-#BAM:
+## **BAM**:
 
 Architecture of the neural net consists of two layers of neurons: Input layer - 6 neurons, Output layers - 3 neurons;
 connected by directional weighted connection paths.
@@ -10,7 +10,7 @@ sent from the Input-layer to the Output-layer is M,  the weight matrix for signa
 from the Output-layer to the Input-layer is MT.
 
 
-#Network Visualization:
+## **Network Visualization**:
 
 Model of neural net from BAM was created using keras module (https://keras.io/).
 Visualization of net's architecure was created using ann_visualizer module (https://github.com/Prodicode/ann-visualizer).
